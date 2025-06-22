@@ -45,7 +45,7 @@ A Flask REST API for a Late Night TV show system built with PostgreSQL, JWT auth
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<username>/late-show-api-challenge.git
+git clone https://github.com/stvlutta/late-show-api-challenge.git
 cd late-show-api-challenge
 ```
 
@@ -283,7 +283,17 @@ Common status codes:
 - `404` - Not Found
 - `500` - Internal Server Error
 
+## 🌐 GitHub Repository
 
+[https://github.com/stvlutta/late-show-api-challenge](https://github.com/stvlutta/late-show-api-challenge)
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
 
 ## 📝 License
 
