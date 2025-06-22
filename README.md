@@ -283,17 +283,7 @@ Common status codes:
 - `404` - Not Found
 - `500` - Internal Server Error
 
-## 🌐 GitHub Repository
 
-[https://github.com/stvlutta/late-show-api-challenge](https://github.com/stvlutta/late-show-api-challenge)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## 📝 License
 
